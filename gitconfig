@@ -1,7 +1,11 @@
 [user]
-    name = Yohan Boutin
-    email = yohan.boutin@ebuzzing.com
+	name = Mallox
+	email = emmanuel@overblog.com
+
+[push]
+	default = current
 [alias]
+    gui = !sh -c '/usr/local/git/libexec/git-core/git-gui'
     c = commit -m
     ca = commit -am
     ci = commit
