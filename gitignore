@@ -65,3 +65,9 @@ Thumbs.db
 # node
 ######################
 node_modules
+
+# Xcode
+#####################
+*.xccheckout
+xcuserstate
+xcsettings
